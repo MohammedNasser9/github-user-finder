@@ -4,7 +4,7 @@ A responsive web app to **search GitHub users** and display their profile inform
 
 ## Live Demo
 
-Check it out on Vercel: [Your Vercel Link Here](https://vercel.com/your-project-link)
+Check it out on Vercel: [Your Vercel Link Here](https://github-user-finder-rho-nine.vercel.app/)
 
 ## Features
 
